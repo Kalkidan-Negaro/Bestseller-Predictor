@@ -33,7 +33,7 @@ Clone the repository:
 
 2. Install dependencies:
  ```bash
-pip install -r requirements.txt
+pip install -r requirements.txt '''
 
 3. Run the notebook BookSense_Logistic_Regression.ipynb or the Python scripts in src/.
 
