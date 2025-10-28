@@ -28,7 +28,7 @@ The project uses the [Goodreads Books Dataset](https://www.kaggle.com/datasets/j
 
 1. Clone the repository:  
   ````
-   git clone <repo_url>
+   git clone "https://github.com/Kalkidan-Negaro/Bestseller-Predictor"
 ````
 
 2. Install dependencies:
