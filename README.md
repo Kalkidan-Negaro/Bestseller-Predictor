@@ -23,9 +23,9 @@ The project uses the [Goodreads Books Dataset](https://www.kaggle.com/datasets/j
 3. **Model Training**: Logistic Regression implemented from scratch with gradient descent.  
 4. **Hyperparameter Tuning**: Testing different learning rates and epochs for optimal performance.  
 5. **Evaluation**: Confusion matrix, classification report, ROC-AUC, and threshold tuning.  
-````
-## How to Run
 
+## How to Run
+````
 1. Clone the repository:  
    ```bash
    git clone <repo_url>
