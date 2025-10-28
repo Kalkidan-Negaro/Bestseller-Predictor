@@ -27,13 +27,15 @@ The project uses the [Goodreads Books Dataset](https://www.kaggle.com/datasets/j
 ## How to Run
 Clone the repository:
 
-Bash
-git clone <repo_url>
-Install dependencies:
+1. Clone the repository:  
+   ```bash
+   git clone <repo_url>
 
-Bash
+2. Install dependencies:
+
 pip install -r requirements.txt
-Execute the code: Run the notebook BookSense_Logistic_Regression.ipynb or the Python scripts in src/.
+
+3. Run the notebook BookSense_Logistic_Regression.ipynb or the Python scripts in src/.
 
 ## Results
 Achieved high accuracy in predicting bestseller books.
