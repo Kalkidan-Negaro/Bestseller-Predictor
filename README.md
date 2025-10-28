@@ -25,9 +25,9 @@ The project uses the [Goodreads Books Dataset](https://www.kaggle.com/datasets/j
 5. **Evaluation**: Confusion matrix, classification report, ROC-AUC, and threshold tuning.  
 
 ## How to Run
-````
+
 1. Clone the repository:  
-   ```bash
+  ````
    git clone <repo_url>
 ````
 
