@@ -54,4 +54,3 @@ The project uses the [Goodreads Books Dataset](https://www.kaggle.com/datasets/j
 * Scikit-learn, n.d. Preprocessing data. [Online] Available at: [https://scikit-learn.org/stable/modules/preprocessing.html](https://scikit-learn.org/stable/modules/preprocessing.html) [Accessed 23 October 2025].
 * Seaborn, n.d. Seaborn: statistical data visualization. [Software] Available at: [https://seaborn.pydata.org/](https://seaborn.pydata.org/) [Accessed 28 October 2025].
 
-```
