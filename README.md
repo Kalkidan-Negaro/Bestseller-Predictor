@@ -25,35 +25,32 @@ The project uses the [Goodreads Books Dataset](https://www.kaggle.com/datasets/j
 5. **Evaluation**: Confusion matrix, classification report, ROC-AUC, and threshold tuning.  
 
 ## How to Run
-Clone the repository:
 
 1. Clone the repository:  
    ```bash
    git clone <repo_url>
+````
 
 2. Install dependencies:
- ```bash
-pip install -r requirements.txt '''
 
-3. Run the notebook BookSense_Logistic_Regression.ipynb or the Python scripts in src/.
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+3. Run the notebook `BookSense_Logistic_Regression.ipynb` or the Python scripts in `src/`.
 
 ## Results
-Achieved high accuracy in predicting bestseller books.
 
-Identified key features influencing bestseller status.
-
-ROC-AUC and confusion matrices demonstrate the model's discriminative ability.
+* Achieved high accuracy in predicting bestseller books.
+* Identified key features influencing bestseller status.
+* ROC-AUC and confusion matrices demonstrate the model's discriminative ability.
 
 ## References
-Kaggle, 2025. Goodreads Books Dataset. [Dataset] Available at: https://www.kaggle.com/datasets/jealousleopard/goodreadsbooks [Accessed 22 October 2025].
 
-Stack Abuse, 2021. Logistic Regression From Scratch in Python. [Online] Available at: https://stackabuse.com/logistic-regression-from-scratch-in-python/ [Accessed 24 October 2025].
-
-Analytics Vidhya, 2020. Logistic Regression: Understanding Gradient Descent. [Online] Available at: https://www.analyticsvidhya.com/blog/2020/10/logistic-regression-understanding-gradient-descent/ [Accessed 21 October 2025].
-
-Scikit-learn, n.d. Metrics and scoring: classification metrics. [Online] Available at: https://scikit-learn.org/stable/modules/model_evaluation.html#classification-metrics [Accessed 27 October 2025].
-
-Scikit-learn, n.d. Preprocessing data. [Online] Available at: https://scikit-learn.org/stable/modules/preprocessing.html [Accessed 23 October 2025].
-
-Seaborn, n.d. Seaborn: statistical data visualization. [Software] Available at: https://seaborn.pydata.org/ [Accessed 28 October 2025].
+* Kaggle, 2025. Goodreads Books Dataset. [Dataset] Available at: [https://www.kaggle.com/datasets/jealousleopard/goodreadsbooks](https://www.kaggle.com/datasets/jealousleopard/goodreadsbooks) [Accessed 22 October 2025].
+* Stack Abuse, 2021. Logistic Regression From Scratch in Python. [Online] Available at: [https://stackabuse.com/logistic-regression-from-scratch-in-python/](https://stackabuse.com/logistic-regression-from-scratch-in-python/) [Accessed 24 October 2025].
+* Analytics Vidhya, 2020. Logistic Regression: Understanding Gradient Descent. [Online] Available at: [https://www.analyticsvidhya.com/blog/2020/10/logistic-regression-understanding-gradient-descent/](https://www.analyticsvidhya.com/blog/2020/10/logistic-regression-understanding-gradient-descent/) [Accessed 21 October 2025].
+* Scikit-learn, n.d. Metrics and scoring: classification metrics. [Online] Available at: [https://scikit-learn.org/stable/modules/model_evaluation.html#classification-metrics](https://scikit-learn.org/stable/modules/model_evaluation.html#classification-metrics) [Accessed 27 October 2025].
+* Scikit-learn, n.d. Preprocessing data. [Online] Available at: [https://scikit-learn.org/stable/modules/preprocessing.html](https://scikit-learn.org/stable/modules/preprocessing.html) [Accessed 23 October 2025].
+* Seaborn, n.d. Seaborn: statistical data visualization. [Software] Available at: [https://seaborn.pydata.org/](https://seaborn.pydata.org/) [Accessed 28 October 2025].
 
